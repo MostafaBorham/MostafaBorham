@@ -9,9 +9,8 @@ I'm a Senior Mobile Developer , work as Freelancer currently.
 - 💬 Ask me about [Flutter](https://flutter.dev), [Dart](https://dart.dev), [Firebase](https://firebase.google.com/).
 - 📫 How to reach me:
 
-  [!["LinkedIn"](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](www.linkedin.com/in/mostafa-borham/)
-  [!["YouTube"](https://img.shields.io/youtube/channel/subscribers/UCMQeTJFwpvbeXjLPrd9_eQw?label=TarekAlabd&style=social)]([https://youtube.com/TarekAlabd](https://www.youtube.com/@mostafaborham9162/))
-  [!["My Website"](https://mostaql.com/u/MostafaBorham)
+  [!["LinkedIn"](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](www.linkedin.com/in/mostafa-borham)
+  [!["YouTube"](https://img.shields.io/youtube/channel/subscribers/UCMQeTJFwpvbeXjLPrd9_eQw?label=MostafaBorham&style=social)]([https://youtube.com/TarekAlabd](https://www.youtube.com/@mostafaborham9162/))
 
   
 ### Some Projects
