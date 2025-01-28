@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a Senior Mobile Developer , work as Freelancer currently.
+I'm a **Junior** Mobile Developer , **Flutter** Developer in **OnTrack Company** and also work in **Freelancing** .
 
 
 - 🔭 I’m currently working on improving my skills as a software engineer.
