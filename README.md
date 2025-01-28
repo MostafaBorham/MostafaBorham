@@ -15,7 +15,7 @@ I'm a **Junior** Mobile Developer , **Flutter** Developer in **OnTrack Company**
   
 ### Some Projects
 - **FlonStore** ([Android]([https://play.google.com/store/apps/details?id=net.megatrust.megaschoolingprod](https://play.google.com/store/apps/details?id=com.flonstores.app&hl=ar)))
-- **EgyFrance** ([Android]([https://play.google.com/store/apps/details?id=net.megatrust.donationsApp](https://play.google.com/store/apps/details?id=com.abtechinternational.egyfrance))) ([IOS]([https://apps.apple.com/us/app/sanad-%D8%B3%D9%86%D8%AF/id1623141495](https://apps.apple.com/tt/app/egyfrance/id1580491537)))
+- **EgyFrance** ([Android & Ios]([https://play.google.com/store/apps/details?id=net.megatrust.donationsApp](https://play.google.com/store/apps/details?id=com.abtechinternational.egyfrance))) (([https://apps.apple.com/us/app/sanad-%D8%B3%D9%86%D8%AF/id1623141495](https://apps.apple.com/tt/app/egyfrance/id1580491537)))
 - **Motory** ([Android]([https://play.google.com/store/apps/details?id=net.megatrust.megabooks](https://play.google.com/store/apps/details?id=com.motoreytime.app&fbclid=IwZXh0bgNhZW0CMTAAAR2C5cUG0GDUQSUx8yyG-HkwEN9sN_pED5FNqvQVvQxlsvDIDmmoMw_OqWo_aem_zftdtpES7qEWyrZptmZisw)))
 - **Logista** ([Android]([https://play.google.com/store/apps/details?id=co.megatrust.jobs](https://play.google.com/store/apps/details?id=com.logistatime.app&fbclid=IwZXh0bgNhZW0CMTAAAR1XOZM-qFpMvbjxhh6CWW2sjcE2PuNdTu-HQg8yq0SBLnYYgSmdM0OJxIM_aem_lO2hT4VSwjMWBvHR_-BGoA)))
 - **Tarf** ([Android & Ios]([https://play.google.com/store/apps/details?id=com.SmartBrand.Tarf](https://play.google.com/store/apps/details?id=com.SmartBrand.Tarf)))
